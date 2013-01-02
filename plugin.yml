@@ -1,0 +1,7 @@
+name: Apron
+main: com.meem1029.apron.Apron
+version: 0.7.0
+author: meem1029
+commands:
+ reset-aprons:
+  description: Resets teams.
